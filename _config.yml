@@ -1,0 +1,14 @@
+layout_spectrum: 0.8980464776977897
+typography_spectrum: 0.9423553813248873
+color:
+  brandStrength: 0.8589469811413437
+  lightness: 0.8121468960307539
+  saturation: 0.008515979629009962
+  rhythmicContrast: 0.7381469705142081
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+name: ValtexGrid
